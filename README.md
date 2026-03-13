@@ -72,3 +72,71 @@
 </a>
 
 </p>
+## 🚀 Featured Projects
+
+### 🔗 Blockchain-Based KYC Model
+A secure blockchain system for credit allocation and KYC verification in banking.
+
+- 🔧 Tech: Python, Blockchain, Web Development
+- 📂 Repo: https://github.com/madhureddy-ai
+
+---
+
+### 🤖 AI Chatbot
+A simple AI chatbot that answers user queries using Python.
+
+- 🔧 Tech: Python, NLP
+- 📂 Repo: https://github.com/madhureddy-ai
+
+---
+
+### 📊 Data Science Analysis
+Data analysis and visualization using Python and machine learning.
+
+- 🔧 Tech: Python, Pandas, Machine Learning
+- 📂 Repo: https://github.com/madhureddy-ai
+
+## 🚀 Featured Projects
+
+
+
+<a href="https://github.com/madhureddy-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=madhureddy-ai&repo=madhureddy-ai&theme=tokyonight"/>
+</a>
+
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy-ai&layout=compact&theme=tokyonight)
+</a>
+## 📈 GitHub Activity Graph
+
+![Madhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhureddy-ai&theme=react-dark)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy-ai&layout=compact&theme=tokyonight)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
