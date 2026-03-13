@@ -53,10 +53,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=madhureddy-ai&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=madhureddy-ai&theme=radical&margin-w=10&margin-h=10)
 
 ## 🌐 Connect With Me
 
