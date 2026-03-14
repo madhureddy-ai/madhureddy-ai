@@ -1,7 +1,14 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/madhureddy-ai/madhureddy-ai/main/avatar.png" width="180"/>
+<img src="avatar.jpeg" width="180" style="border-radius:50%;">
 </p>
 
+<h1 align="center">Madhu Reddy</h1>
+
+<h3 align="center">Building AI tools for developers</h3>>
+
+<h1 align="center">Madhu Reddy</h1>
+
+<h3 align="center">Building AI tools for developers</h3>
 <h1 align="center">Madhu Reddy</h1>
 
 <h3 align="center">Building AI tools for developers</h3>
