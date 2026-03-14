@@ -1,4 +1,26 @@
 <p align="center">
+<img src="https://raw.githubusercontent.com/madhureddy-ai/madhureddy-ai/main/avatar.png" width="180"/>
+</p>
+
+<h1 align="center">Madhu Reddy</h1>
+
+<h3 align="center">Building AI tools for developers</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=madhureddy-ai&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/madhureddy-ai?label=Followers"/>
+<img src="https://img.shields.io/github/stars/madhureddy-ai?label=Total%20Stars"/>
+</p>
+
+
+
+<h1 align="center">Madhu Reddy</h1>
+
+<h3 align="center">Building AI tools for developers</h3>
+
+<h3 align="center">Building AI tools for developers</h3>
+
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Madhu+Reddy;Aspiring+AI+Developer;Python+%7C+Data+Science+%7C+Machine+Learning;Building+AI+Projects+🚀" />
 </p>
 
