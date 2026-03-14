@@ -30,20 +30,26 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,html,css"/>
 </p>
+
+<h2 align="center">
+📊 GitHub Analytics</h2>
+
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=madhureddy-ai&show_icons=true&theme=tokyonight"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=madhureddy-ai&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy-ai&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📈 Contribution Graph</h2>
 
-![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhureddy-ai&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=madhureddy-ai&theme=tokyonight)
-
----
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhureddy-ai&theme=react-dark"/>
+</p>
 ### 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy-ai&layout=compact&theme=tokyonight)
@@ -112,9 +118,7 @@ Data analysis and visualization using Python and machine learning.
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy-ai&layout=compact&theme=tokyonight)
 </a>
-## 📈 GitHub Activity Graph
 
-![Madhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhureddy-ai&theme=react-dark)
 
 ## 💻 Most Used Languages
 
