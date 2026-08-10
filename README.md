@@ -1,5 +1,5 @@
 <!-- 
-  MADHUSUDHAN REDDY NEELAM — Python Learner
+  Madhu Reddy — Python Learner
   GitHub: https://github.com/madhureddy-ai
   Location: Andhra Pradesh, India
   Focus: Python programming, AI tools, and open source learning
@@ -10,10 +10,13 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=500&lines=MADHUSUDHAN+REDDY+NEELAM" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=500&lines=Madhu+Reddy" />
 
 <h3>
-Python Learner | AI & Data Science Student
+ Founder & Editor at AI Weekly Express
+
+### AI & Data Science Graduate | Python Developer | Microsoft AI & Azure Learner
+
 </h3>
 
 </div>
@@ -24,7 +27,7 @@ Python Learner | AI & Data Science Student
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Learner+from+India;AI+%26+Data+Science+Student;Building+Real+Projects;Exploring+Open+Source" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Founder+%26+Editor+at+AI+Weekly+Express;AI+%26+Data+Science+Graduate;Python+Developer+%7C+Azure+AI+Learner;Building+Practical+AI+Projects;Learning+Generative+AI+and+Cloud+Technologies" />
 
 </div>
 
@@ -38,18 +41,17 @@ Python Learner | AI & Data Science Student
   
 ## About Me
 
-I am a B.Tech student from Andhra Pradesh, India, currently focused on learning software development, programming fundamentals, and modern technologies used in real-world systems.
+I'm an **AI & Data Science graduate** from Andhra Pradesh, India, focused on building practical AI projects and continuously improving my software development skills.
 
-My main interest is in **Python programming, Java development, and artificial intelligence**, and I enjoy building projects that help me understand how real-world applications are designed and implemented.
+My primary interests are **Python, Generative AI, Azure AI, machine learning, and automation**, and I enjoy creating projects that solve real-world problems and strengthen my understanding of modern AI systems.
 
-I am particularly interested in **blockchain technology, secure digital systems, and automation**, and I am continuously exploring how these technologies can be used to improve banking systems and identity verification.
+I'm also the **Founder & Editor of AI Weekly Express**, a weekly LinkedIn newsletter where I share AI news, GenAI tools, internships, certifications, and career opportunities for students and aspiring AI engineers.
 
-Currently, I am working on and improving my academic project titled **“Blockchain Based KYC Model for Credit Allocation in Banking”**, which focuses on using blockchain technology to make identity verification and credit allocation in banking systems more secure and transparent.
+Currently, I'm expanding my portfolio with AI and cloud-based projects while exploring **Agentic AI, blockchain technology, and secure digital systems**.
 
-Alongside my academic work, I spend time learning **Git, GitHub, and open-source collaboration**, building small projects, and improving my programming skills step by step.
+My goal is to become a skilled **AI Engineer** by building impactful projects, contributing to open-source communities, and sharing everything I learn with others.
 
-My goal is to grow as a software developer by building practical projects, contributing to open-source software, and continuously learning new technologies in the fields of **AI, blockchain, and software engineering**.
-
+---
 
 ## 🚀 My Project — Blockchain Based KYC Model for Credit Allocation in Banking
 
@@ -93,40 +95,33 @@ The goal of this project is to make financial verification more secure, transpar
 ## Tech Stack
 
 ### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 </p>
 
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### AI & Cloud
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
 ### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black" />
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
 ### Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ### Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain_Technology-121D33?style=for-the-badge" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,azure,git" />
 </p>
 
 ---
@@ -152,31 +147,23 @@ The goal of this project is to make financial verification more secure, transpar
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhureddy-ai&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 
 ## 📚 Learning & Activities
 
-I regularly spend time improving my programming skills and exploring new technologies in software development and artificial intelligence.
+I actively spend time improving my AI and software development skills by building practical projects, learning cloud technologies, and documenting my journey in public through **AI Weekly Express**.
 
-- Practicing Python and Java programming
-- Building small projects to strengthen development skills
-- Exploring blockchain technology and secure banking systems
-- Learning Git and open-source collaboration
-- Improving problem-solving and coding skills
+- Building practical Python and AI projects
+- Learning Microsoft Azure AI and cloud technologies
+- Exploring Generative AI and Agentic AI concepts
+- Working with Git, GitHub, and open-source collaboration
+- Improving problem-solving and software development skills
+- Sharing AI news and learning resources through **AI Weekly Express**
 
 ### Workshops & Certifications
 
+- Microsoft AI & Azure Learning Paths
 - Generative AI Workshop — CYSENTIA 2K24 (JNTUK UCEN)
-- PPT Competition — Innovation Fair 2K25
 - AI-ML Virtual Internship — EduSkills / AICTE / Google for Developers
 
 ## 🌐Connect With Me
